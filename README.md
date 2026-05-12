@@ -120,11 +120,11 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22kranthi&show_icons=true&theme=github_dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff&icon_color=79c0ff)
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=22kranthi&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22kranthi&layout=compact&theme=github_dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff&langs_count=10)
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=22kranthi&theme=tokyonight&hide_border=true" />
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=22kranthi&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=22kranthi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
