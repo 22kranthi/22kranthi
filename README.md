@@ -129,6 +129,13 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 </div>
 
 ---
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Kranthi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=22kranthi&theme=tokyo-night&hide_border=true)](https://github.com/22kranthi)
+
+</div>
 
 ## 🤝 Let's Connect
 
