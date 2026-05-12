@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a full-stack developer and AI/ML engineer with a passion for solving complex problems and shipping products that matter. I specialize in building modern cloud-native applications, serverless architectures, AI/ML solutions, and competitive programming.
+I'm a full-stack developer and AI/ML engineer with a passion for solving complex problems and shipping products that matter. I specialize in building modern cloud-native applications, serverless architectures, and intelligent systems.
 
 - 🌐 **Web Development** — Building responsive, high-performance REST & GraphQL APIs with serverless architectures
 - 🤖 **AI/ML & Deep Learning** — NLP, TensorFlow, Machine Learning models, voice-based AI systems
@@ -30,9 +30,9 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Blog-App-V1**](https://github.com/22kranthi/blog-app-v1) | AI-powered serverless blog platform with GraphQL, real-time updates, and content enhancement | Java 17, Spring Cloud Function, Angular 19+, AWS Lambda, DynamoDB, AppSync (GraphQL), Cognito, Bedrock |
+| [**Blog-App-V1**](https://github.com/22kranthi/blog-app-v1) | AI-powered serverless blog platform with GraphQL, real-time updates, and content enhancement | Java 17, Spring Cloud Function, Angular |
 | [**Book Management API**](https://github.com/22kranthi/book-management-api) | Spring Boot REST API with complete CRUD operations and validation | Java, Spring Boot, Spring Data JPA, H2, Maven |
-| [**Voice-Based Deep Learning Chatbot**](https://github.com/22kranthi/voice-based-deep-learning-chatbot) | NLP-powered voice chatbot with intent classification and TTS | Python, TensorFlow, NLP, Deep Learning, Text-to-Speech |
+| [**Voice-Based Deep Learning Chatbot**](https://github.com/22kranthi/voice-based-deep-learning-chatbot) | NLP-powered voice chatbot with intent classification and TTS | Python, TensorFlow, NLP, Keras |
 | [**Task Manager API**](https://github.com/22kranthi/task-manager-api) | RESTful Task Manager with MVC architecture and full CRUD | Node.js, Express.js, MongoDB, JavaScript |
 | [**PHP Task Manager**](https://github.com/22kranthi/php-task-manager) | Full-featured task manager with MVC pattern | PHP, MySQL, CSS |
 | [**Expense Tracker**](https://github.com/22kranthi/Expense_Tracker) | Financial management and visualization app | JavaScript, HTML5, CSS3 |
@@ -120,9 +120,11 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22kranthi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=22kranthi&show_icons=true&theme=github_dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff&icon_color=79c0ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22kranthi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9cacc&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=22kranthi&layout=compact&theme=github_dark&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff&langs_count=10)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=22kranthi&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)
 
 </div>
 
