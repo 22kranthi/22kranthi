@@ -5,7 +5,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/22kranthi?style=flat&logo=github&logoColor=white&label=followers)](https://github.com/22kranthi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kranthikumarsabavat)
   
-  **Full-Stack Developer** | **AI/ML Engineer** | **Competitive Programmer** | **Cloud Architect**
+  **Full-Stack Developer** |**Competitive Programmer** | **Cloud Architect**
   
   Engineering graduate passionate about building impactful digital solutions, scalable web applications, and AI-driven systems.
   
@@ -53,7 +53,6 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Frontend**
 
@@ -116,19 +115,6 @@ I'm a full-stack developer and AI/ML engineer with a passion for solving complex
 
 </div>
 
----
-
-## 💡 Expertise
-
-- **Serverless Architecture** — AWS Lambda, SnapStart optimization, event-driven systems
-- **Cloud-Native Development** — Microservices, DynamoDB, S3, AppSync (GraphQL)
-- **AI/ML Solutions** — NLP, TensorFlow, Deep Learning models, voice-based AI systems
-- **Authentication & Security** — AWS Cognito, IAM hardening, JWT, OAuth 2.0
-- **Full-Stack Development** — Both REST APIs and GraphQL backends with reactive frontends
-- **Database Design** — Adjacency Lists, GSI indexing, Point-in-Time Recovery, SSE encryption
-- **Competitive Programming** — Algorithm optimization, data structures, problem-solving
-
----
 
 ## 📊 GitHub Stats
 
