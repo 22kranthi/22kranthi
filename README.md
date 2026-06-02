@@ -5,7 +5,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/22kranthi?style=flat&logo=github&logoColor=white&label=followers)](https://github.com/22kranthi)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kranthikumarsabavat)
   
-  **Full-Stack Developer** |**Competitive Programmer** | **Cloud Architect**
+  **Full-Stack Developer** | **Competitive Programmer** | **Cloud Architect**
   
   Engineering graduate passionate about building impactful digital solutions, scalable web applications, and AI-driven systems.
   
