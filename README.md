@@ -15,7 +15,7 @@
 
 ## 🎯 About Me
 
-I'm a full-stack developer and AI/ML engineer with a passion for solving complex problems and shipping products that matter. I specialize in building modern cloud-native applications, serverless architectures, and intelligent systems.
+I'm a full-stack developer with a passion for solving complex problems and shipping products that matter. I specialize in building modern cloud-native applications, serverless architectures, and intelligent systems.
 
 - 🌐 **Web Development** — Building responsive, high-performance REST & GraphQL APIs with serverless architectures
 - 🤖 **AI/ML & Deep Learning** — NLP, TensorFlow, Machine Learning models, voice-based AI systems
