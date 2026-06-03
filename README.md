@@ -17,12 +17,12 @@
 
 I'm a full-stack developer with a passion for solving complex problems and shipping products that matter. I specialize in building modern cloud-native applications, serverless architectures, and intelligent systems.
 
-- 🌐 **Web Development** — Building responsive, high-performance REST & GraphQL APIs with serverless architectures
-- 🤖 **AI/ML & Deep Learning** — NLP, TensorFlow, Machine Learning models, voice-based AI systems
-- 💻 **Full-Stack** — Java, Spring Boot, Angular, Node.js, TypeScript, MongoDB, and SQL databases  
-- ☁️ **Cloud Native** — AWS (Lambda, DynamoDB, S3, AppSync, Cognito, Bedrock), serverless & microservices
-- 🎓 **Competitive Programming** — Algorithm optimization and problem-solving
-- 🚀 **Growth Mindset** — Constantly learning and improving
+- 🌐 **Web Development** — Building responsive, high-performance REST & GraphQL APIs with serverless architectures.
+- 🤖 **AI/ML & Deep Learning** — NLP, TensorFlow, Machine Learning models, voice-based AI systems.
+- 💻 **Full-Stack** — Java, Spring Boot, Angular, Node.js, TypeScript, MongoDB, and SQL databases.  
+- ☁️ **Cloud Native** — AWS (Lambda, DynamoDB, S3, AppSync, Cognito, Bedrock), serverless & microservices.
+- 🎓 **Competitive Programming** — Algorithm optimization and problem-solving.
+- 🚀 **Growth Mindset** — Constantly learning and improving.
 
 ---
 
